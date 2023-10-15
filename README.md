@@ -4,3 +4,7 @@
 - Logical and arithmetic operations;
 - Input and output syscalls;
 - Directives.
+
+## Section 2
+- Conditionals
+- Loops
